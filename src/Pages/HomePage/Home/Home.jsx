@@ -7,6 +7,8 @@ import Cards from '../Cards/Cards';
 import AboutUs from '../AboutUs/AboutUs';
 import HappyAssist from '../HappyAssist/HappyAssist';
 import PricingPackege from '../PricingPackege/PricingPackege';
+import ContactUs from '../ContactUs/ContactUs';
+import DiscoverAgency from '../DiscoverAgency/DiscoverAgency';
 const Home = () => {
   return (
     <div>
@@ -17,6 +19,8 @@ const Home = () => {
       <AboutUs></AboutUs>
       <HappyAssist></HappyAssist>
       <PricingPackege></PricingPackege>
+      <ContactUs></ContactUs>
+      <DiscoverAgency></DiscoverAgency>
     </div>
   );
 };

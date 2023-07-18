@@ -4,6 +4,6 @@
   /* box-shadow: dimgray; */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   /* transition: width 5s ease, height 5s ease, background-color 5s ease; */
-
+  transition: .5s;
 
 }

@@ -1,0 +1,26 @@
+.discover{
+  background: url('https://previews.123rf.com/images/leila777divine/leila777divine2004/leila777divine200400018/144096417-vector-background-with-smm-elements-social-media-marketing-reach-and-promotion-among-target.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  position: relative;
+  overflow: hidden;
+
+  height: 300px;
+  margin-bottom: 30px;
+  background-attachment: fixed;
+
+  position: relative;
+  margin-bottom: 50px;
+  padding-bottom: 50px;
+
+}
+.kaku{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(21, 21, 189, 0.7);
+  /* margin-bottom: 20px; */
+}

@@ -10,9 +10,9 @@ const PricingPackege = () => {
 
 
 
-      <div className='grid grid-cols-2 gap-5 w-1/2 mx-auto'>
-        <article className='border-2 px-8 py-5 text-center font-semibold rounded-lg text-[6610f2] text-blue-700'>
-          <h1 className='text-3xl font-bold'>$39</h1>
+      <div className='grid grid-cols-1 md:grid-cols-2 gap-5 md:w-1/2 mx-auto'>
+        <article className='border-2 px-8 py-5 text-center font-semibold rounded-lg text-[6610f2] text-blue-500'>
+          <h1 className='text-3xl font-bold'><span className='text-slate-500'>$</span>39</h1>
           <p className='mt-2'>Standard License</p>
           <hr className='my-5' />
 
@@ -26,11 +26,11 @@ const PricingPackege = () => {
             <p className='my-2'>10+ profitable keyword</p>
           </div>
           
-          <button className='py-3 bg-blue-700 text-white mt-5 rounded-md font-bold border px-5'>Purchase Now</button>
+          <button className='py-3 bg-blue-500 text-white mt-5 rounded-md font-bold border px-5'>Purchase Now</button>
         </article>
 
 
-        <article className='border-2 px-8 py-5 text-center rounded-lg text-[6610f2] bg-blue-700 font-semibold text-white'>
+        <article className='border-2 px-8 py-5 text-center rounded-lg text-[6610f2] bg-blue-500 font-semibold text-white'>
           <h1 className='text-3xl font-bold'>$39</h1>
           <p className='mt-2'>Extended License</p>
           <hr className='my-5' />
